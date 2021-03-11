@@ -13,9 +13,7 @@
 &emsp;・vue.js(javascript):約10% (主に非同期処理で使用）</br>
 ・使用外部サービス</br>
 &emsp;・aws:S3</br>
-&emsp;・heroku(ユーザー訪問数、サービス内の機能上のサーバーへの負荷はそこまで大きくないと判断し、</br>
-&emsp;コスト面を考えawsではなくherokuをサーバーとして</br>
-&emsp;選択した）</br>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
