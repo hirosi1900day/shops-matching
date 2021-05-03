@@ -9,8 +9,8 @@
 &emsp;・チャット機能</br>
 &emsp;・googleマップAPI</br>
 ・使用言語：language</br>
-&emsp;・laravel(php):約90%</br>
-&emsp;・vue.js(javascript):約10% (主に非同期処理で使用）</br>
+&emsp;・laravel(php)</br>
+&emsp;・vue.js(javascript)</br>
 ・使用外部サービス</br>
 &emsp;・aws:S3</br>
 
