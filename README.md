@@ -15,7 +15,7 @@
 &emsp;・aws:S3</br>
 
 https://user-images.githubusercontent.com/65472925/116883553-b34df280-ac60-11eb-9a2c-503c86f76c4d.png
-
+<img width="888" alt="スクリーンショット 2021-05-03 22 37 17" src="https://user-images.githubusercontent.com/65472925/116883553-b34df280-ac60-11eb-9a2c-503c86f76c4d.png">
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
